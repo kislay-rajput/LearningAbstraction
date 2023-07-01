@@ -1,2 +1,5 @@
-package com.learn;public interface Flyable {
+package com.learn;
+
+public interface Flyable {
+    public void fly_pbj();
 }
