@@ -1,2 +1,5 @@
-package com.learn;public interface Shape {
+package com.learn;
+
+public interface Shape {
+    public void getArea();
 }

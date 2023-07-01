@@ -1,2 +1,5 @@
-package com.learn;public interface Government {
+package com.learn;
+
+public interface Government {
+    public void bankNames();
 }
